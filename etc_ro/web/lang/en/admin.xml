@@ -1,0 +1,215 @@
+﻿<po>
+  <message msgid="admin disable" msgstr="Disable" />
+  <message msgid="admin enable" msgstr="Enable" />
+  <message msgid="admin apply" msgstr="Apply" />
+  <message msgid="admin cancel" msgstr="Cancel" />
+  <message msgid="admin reset" msgstr="Reset" />
+  <message msgid="admin scan" msgstr="Scan" />
+
+  <!--   modify by nicexie 2010-12-20 -->
+
+  <message msgid="wizard welcome you" msgstr="Welcome " />
+  <message msgid="wizard quick setting" msgstr="Quick Set-Up" />
+  <message msgid="wizard support six" msgstr="The router can connect to a network with multiple commonly used means of access. Please choose yours below. (Please Note: If you are unsure which setting to choose, try the default choice first.)" />
+  <message msgid="wizard set dhcp" msgstr="DHCP (Auto Config)" />
+  <message msgid="wizard set static" msgstr="Static Mode (fixed IP)" />
+  <message msgid="wizard set adsl" msgstr="PPPOE (ADSL)" />
+  <message msgid="wizard set l2tp" msgstr="L2TP" />
+  <message msgid="wizard set pptp" msgstr="PPTP" />
+  
+  <message msgid="wizard set w3g" msgstr="3g" />
+  <message msgid="wizard wireless set" msgstr="Choose a name for your Wireless Network, Security Type, and Password below." />
+  <message msgid="wizard network name" msgstr="network name(SSID)" />
+  <message msgid="wizard security mode" msgstr="security" />
+  <message msgid="wizard back" msgstr="Back" />
+  <message msgid="wizard next" msgstr="Next" />
+  
+   <message msgid="overview welcome" msgstr="Welcome !" />
+  <message msgid="overview thinks you" msgstr="Thank you for using 11N Wireless Router" />
+  <message msgid="overview set one" msgstr="Please use this Quick-Setup Wizard to easily set-up your router." />
+  <message msgid="overview set two" msgstr="Expert users can modify specific settings by choosing from the categories on the left." />
+  
+  <message msgid="overview set wizard" msgstr="Press the Next button below to start the Quick-Setup Wizard. " />
+ 
+  <message msgid="wizard static mode" msgstr="Static Mode" />
+  <message msgid="wizard ip" msgstr="IP Address" />
+  <message msgid="wizard netmask" msgstr="Subnet Mask" />
+  <message msgid="wizard gateway" msgstr="Default Gateway" />
+  <message msgid="wizard pri dns" msgstr="Primary DNS Server" />
+  <message msgid="wizard sec dns" msgstr="Secondary DNS Server" />
+  <message msgid="wizard dhcp mode" msgstr="DHCP Mode" />
+  <message msgid="wizard hostname" msgstr="Hostname" />
+  <message msgid="wizard pppoe mode" msgstr="PPPoE Mode" />
+  <message msgid="wizard user" msgstr="User Name" />
+  <message msgid="wizard password" msgstr="Password" />
+  <message msgid="wizard pass2" msgstr="Verify Password" />
+  <message msgid="wizard protocol opmode" msgstr="Operation Mode" />
+  <message msgid="wizard protocol opmode keepalive" msgstr="Keep Alive" />
+  <message msgid="wizard protocol opmode ondemand" msgstr="On Demand" />
+  <message msgid="wizard protocol opmode manual" msgstr="Manual" />
+  <message msgid="wizard pppoe connect" msgstr="Connect" />
+  <message msgid="wizard pppoe disconnect" msgstr="Disconnect" />
+  <message msgid="wizard l2tp mode" msgstr="L2TP Mode" />
+  <message msgid="wizard server" msgstr="Server IP" />
+  <message msgid="wizard address mode" msgstr="Address Mode" />
+  <message msgid="wizard address mode static" msgstr="Static" />
+  <message msgid="wizard address mode dynamic" msgstr="Dynamic" />
+  <message msgid="wizard pptp mode" msgstr="PPTP Mode" />
+  <message msgid="wizard 3G mode" msgstr="3G Mode" />
+  <message msgid="wizard 3G modem" msgstr="USB 3G modem" />
+  <message msgid="setman restart router" msgstr="Restart Router" />
+  <message msgid="setman restart router button" msgstr="Restart Router Button" />
+  <message msgid="wizard keep period" msgstr="Keep Alive Mode: Redial Period" />
+  <message msgid="wizard keep seconds" msgstr="seconds" />
+  <message msgid="wizard idle time" msgstr="On demand Mode:  Idle Time" />
+  <message msgid="wizard keep minutes" msgstr="minutes" />
+  <message msgid="status wan connecting" msgstr="status" />
+  <message msgid="status refresh" msgstr="Refresh" />
+  <message msgid="treeapp versioninfo" msgstr="Firmware Version: V1.0.0" />
+  <message msgid="wizard secure WPAAlgorithm" msgstr="WPA Algorithms" />
+  <message msgid="wizard secure PassPhrase" msgstr="Pass Phrase" />
+
+  <message msgid="wizard apply success" msgstr="Change setting successfully!" />
+  <message msgid="wizard apply information" msgstr="Your changes have been saved. The router must be rebooted for the changes to take effect.You can reboot now, or you can continue to make other changes and reboot later." />
+  <message msgid="wizard restart now" msgstr="Reboot Now" />
+  <message msgid="wizard restart later" msgstr="Reboot Later" />
+  <!--        end      -->
+
+  <message msgid="man title" msgstr="System Management" />
+  <message msgid="man introduction" msgstr="You may configure administrator account and password here." />
+  <message msgid="man language setting" msgstr="Language Settings" />
+  <message msgid="man select language" msgstr="Select Language" />
+  <message msgid="man admin setting" msgstr="Adminstrator Settings" />
+  <message msgid="man admin account" msgstr="Account" />
+  <message msgid="man admin passwd" msgstr="Password" />
+  <message msgid="man admin watchdog" msgstr="WatchDog" />
+  <message msgid="man ntp setting" msgstr="NTP Settings" />
+  <message msgid="man ntp timezone" msgstr="Time Zone:" />
+  <message msgid="man ntp mid island" msgstr="(GMT-11:00) Midway Island, Samoa" />
+  <message msgid="man ntp hawaii" msgstr="(GMT-10:00) Hawaii" />
+  <message msgid="man ntp alaska" msgstr="(GMT-09:00) Alaska" />
+  <message msgid="man ntp pacific" msgstr="(GMT-08:00) Pacific Time" />
+  <message msgid="man ntp mountain" msgstr="(GMT-07:00) Mountain Time" />
+  <message msgid="man ntp arizona" msgstr="(GMT-07:00) Arizona" />
+  <message msgid="man ntp central" msgstr="(GMT-06:00) Central Time" />
+  <message msgid="man ntp mid us" msgstr="(GMT-06:00) Middle America" />
+  <message msgid="man ntp indiana east" msgstr="(GMT-05:00) Indiana East, Colombia" />
+  <message msgid="man ntp eastern" msgstr="(GMT-05:00) Eastern Time" />
+  <message msgid="man ntp atlantic" msgstr="(GMT-04:00) Atlantic Time, Brazil West" />
+  <message msgid="man ntp bolivia" msgstr="(GMT-04:00) Bolivia, Venezuela" />
+  <message msgid="man ntp guyana" msgstr="(GMT-03:00) Guyana" />
+  <message msgid="man ntp brazil east" msgstr="(GMT-03:00) Brazil East, Greenland" />
+  <message msgid="man ntp mid atlantic" msgstr="(GMT-02:00) Mid-Atlantic" />
+  <message msgid="man ntp azores islands" msgstr="(GMT-01:00) Azores Islands" />
+  <message msgid="man ntp gambia" msgstr="(GMT) Gambia, Liberia, Morocco" />
+  <message msgid="man ntp england" msgstr="(GMT) England" />
+  <message msgid="man ntp czech republic" msgstr="(GMT+01:00) Czech Republic, N" />
+  <message msgid="man ntp germany" msgstr="(GMT+01:00) Germany" />
+  <message msgid="man ntp tunisia" msgstr="(GMT+01:00) Tunisia" />
+  <message msgid="man ntp greece" msgstr="(GMT+02:00) Greece, Ukraine, Turkey" />
+  <message msgid="man ntp south africa" msgstr="(GMT+02:00) South Africa" />
+  <message msgid="man ntp iraq" msgstr="(GMT+03:00) Iraq, Jordan, Kuwait" />
+  <message msgid="man ntp moscow winter" msgstr="(GMT+03:00) Moscow Winter Time" />
+  <message msgid="man ntp armenia" msgstr="(GMT+04:00) Armenia" />
+  <message msgid="man ntp pakistan" msgstr="(GMT+05:00) Pakistan, Russia" />
+  <message msgid="man ntp bangladesh" msgstr="(GMT+06:00) Bangladesh, Russia" />
+  <message msgid="man ntp thailand" msgstr="(GMT+07:00) Thailand, Russia" />
+  <message msgid="man ntp chinacoast" msgstr="(GMT+08:00) China Coast, Hong Kong" />
+  <message msgid="man ntp taipei" msgstr="(GMT+08:00) Taipei" />
+  <message msgid="man ntp singapore" msgstr="(GMT+08:00) Singapore" />
+  <message msgid="man ntp australia wa" msgstr="(GMT+08:00) Australia (WA)" />
+  <message msgid="man ntp japan" msgstr="(GMT+09:00) Japan, Korea" />
+  <message msgid="man ntp korean" msgstr="(GMT+09:00) Korean" />
+  <message msgid="man ntp guam" msgstr="(GMT+10:00) Guam, Russia" />
+  <message msgid="man ntp australia qld" msgstr="(GMT+10:00) Australia (QLD, TAS,NSW,ACT,VIC)" />
+  <message msgid="man ntp solomon islands" msgstr="(GMT+11:00) Solomon Islands" />
+  <message msgid="man ntp fiji" msgstr="(GMT+12:00) Fiji" />
+  <message msgid="man ntp newzealand" msgstr="(GMT+12:00) New Zealand" />
+  <message msgid="man ntp server" msgstr="NTP Server" />
+  <message msgid="man ntp sync" msgstr="NTP synchronization(hours)" />
+  <message msgid="man ntp current time" msgstr="Current Time" />
+  <message msgid="man ntp sync with host" msgstr="Sync with host" />
+  <message msgid="man gap title" msgstr="Green AP" />
+  <message msgid="man gap time" msgstr="Duration" />
+  <message msgid="man gap action" msgstr="Action" />
+  <message msgid="man ddns setting" msgstr="DDNS Settings" />
+  <message msgid="man ddns provider" msgstr="Dynamic DNS Provider" />
+  <message msgid="man ddns none" msgstr="None" />
+  <message msgid="man ddns account" msgstr="Account" />
+  <message msgid="man ddns passwd" msgstr="Password" />
+  <message msgid="man ddns" msgstr="DDNS" />
+
+  <message msgid="upload title" msgstr="Upgrade Firmware" />
+  <message msgid="upload introduction1" msgstr="Upgrade the HLK-RM04 firmware to obtain new functionality. " />
+  <message msgid="upload introduction2" msgstr="It takes about 1 minute to upload &#160; upgrade flash and be patient please. Caution! A corrupted image will hang up the system." />
+  <message msgid="upload firmware" msgstr="Update Firmware" />
+  <message msgid="upload firmware location" msgstr="Location:" />
+  <message msgid="upload bootloader" msgstr="Update Bootloader" />
+  <message msgid="upload bootloader location" msgstr="Location:" />
+  <message msgid="upload firmware from usb" msgstr="Upgrade firmware from USB" />
+  <message msgid="upload firmware force upgrade via mem" msgstr="Force upgrade firmware via mem " />
+  <message msgid="upload firmware force" msgstr="Force:" />
+
+  <message msgid="setman title" msgstr="Settings Management" />
+  <message msgid="setman introduction" msgstr="You might save system settings by exporting them to a configuration file, restore them by importing the file, or reset them to factory default." />
+  <message msgid="setman export setting" msgstr="Export Settings" />
+  <message msgid="setman export setting button" msgstr="Export Button" />
+  <message msgid="setman export setting export" msgstr="Export" />
+  <message msgid="setman import setting" msgstr="Import Settings" />
+  <message msgid="setman import setting file location" msgstr="Settings file location" />
+  <message msgid="setman import setting import" msgstr="Import" />
+  <message msgid="setman load factory default" msgstr="Load Factory Defaults" />
+  <message msgid="setman load factory default button" msgstr="Load Default Button" />
+  <message msgid="setman load default" msgstr="Load Default" />
+  
+  <message msgid="setman system reboot" msgstr="System Reboot" />
+  <message msgid="setman reboot button" msgstr="System Reboot Button" />
+  <message msgid="setman reboot" msgstr="Reboot" />
+
+  <message msgid="status title" msgstr="Access Point Status" />
+  <message msgid="status introduction" msgstr="Let's take a look at the status of HLK-RM04 Platform." />
+  <message msgid="status system information" msgstr="System Info" />
+  <message msgid="status sdk version" msgstr="SDK Version" />
+  <message msgid="status system up time" msgstr="System Up Time" />
+  <message msgid="status system platform" msgstr="System Platform" />
+  <message msgid="status operate mode" msgstr="Operation Mode" />
+  <message msgid="status internet config" msgstr="Internet Configurations" />
+  <message msgid="status connect type" msgstr="Connected Type" />
+  <message msgid="status wan ipaddr" msgstr="WAN IP Address" />
+  <message msgid="status subnet mask" msgstr="Subnet Mask" />
+  <message msgid="status default gateway" msgstr="Default Gateway" />
+  <message msgid="status primary dns" msgstr="Primary Domain Name Server" />
+  <message msgid="status secondary dns" msgstr="Secondary Domain Name Server" />
+  <message msgid="status local network" msgstr="Local Network" />
+  <message msgid="status lan ipaddr" msgstr="Local IP Address" />
+  <message msgid="status local netmask" msgstr="Local Netmask" />
+  <message msgid="status mac" msgstr="MAC Address" />
+  <message msgid="status ethernet port status" msgstr="Ethernet Port Status" />
+
+  <message msgid="statistic title" msgstr="Statistic" />
+  <message msgid="statistic introduction" msgstr=" Take a look at the HLK-RM04 statistics " />
+  <message msgid="statistic memory" msgstr="Memory" />
+  <message msgid="statistic memory total" msgstr="Memory total: " />
+  <message msgid="statistic memory left" msgstr="Memory left: " />
+  <message msgid="statistic wanlan" msgstr="WAN/LAN" />
+  <message msgid="statistic wan rx pkt" msgstr="WAN Rx packets: " />
+  <message msgid="statistic wan rx bytes" msgstr="WAN Rx bytes: " />
+  <message msgid="statistic wan tx pkt" msgstr="WAN Tx packets: " />
+  <message msgid="statistic wan tx bytes" msgstr="WAN Tx bytes: " />
+  <message msgid="statistic lan rx pkt" msgstr="LAN Rx packets: " />
+  <message msgid="statistic lan rx bytes" msgstr="LAN Rx bytes: " />
+  <message msgid="statistic lan tx pkt" msgstr="LAN Tx packets: " />
+  <message msgid="statistic lan tx bytes" msgstr="LAN Tx bytes: " />
+  <message msgid="statistic all interface" msgstr="All interfaces" />
+
+  <message msgid="syscommand title" msgstr="System Command" />
+  <message msgid="syscommand introduction" msgstr=" Run a system command as root: " />
+  <message msgid="syscommand system command" msgstr="System command " />
+  <message msgid="syscommand command" msgstr="Command:" />
+
+  <message msgid="syslog title" msgstr="System Log" />
+  <message msgid="syslog introduction" msgstr=" Syslog: " />
+  <message msgid="syslog system log" msgstr="System Log" />
+  <message msgid="syslog clear" msgstr="Clear" />
+  <message msgid="syslog refresh" msgstr="Refresh" />
+</po>

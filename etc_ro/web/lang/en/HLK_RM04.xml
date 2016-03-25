@@ -1,0 +1,67 @@
+﻿<po>
+  <message msgid="rm04 Serial2Net Settings" msgstr="Serial2Net Settings" />
+  <message msgid="rm04 Advance Settings" msgstr="Advance Settings" />
+  <message msgid="rm04 Management" msgstr="Management" />
+  <message msgid="rm04 Settings Management" msgstr="Settings Management" />
+  <message msgid="rm04 Upload Firmware" msgstr="Upload Firmware" />
+
+  <message msgid="Set NetMode" msgstr="NetMode" />
+  <message msgid="Set SSID" msgstr="SSID" />
+  <message msgid="Set Password" msgstr="Password" />
+  <message msgid="Set IP Type" msgstr="IP Type" />
+  <message msgid="Set IP Address" msgstr="IP Address" />
+  <message msgid="Set Subnet Mask" msgstr="Subnet Mask" />
+  <message msgid="Set Default Gateway" msgstr="Default Gateway" />
+  <message msgid="Set Primary DNS Server" msgstr="Primary DNS Server" />
+  <message msgid="Set Secondary DNS Server" msgstr="Secondary DNS Server" />
+  
+  <message msgid="Set Encrypt Type" msgstr="Encrypt Type" />
+  
+  
+  
+  <message msgid="Set Serial Configure" msgstr="Serial Configure" />
+  <message msgid="Set Serial Framing Lenth" msgstr="Serial Framing Lenth" />
+  <message msgid="Set Serial Framing Timeout" msgstr="Serial Framing Timeout" />
+  <message msgid="Set Network Mode" msgstr="Network Mode" />
+  <message msgid="Set Remote Server Domain/IP" msgstr="Remote Server Domain/IP" />
+  <message msgid="Set Locale/Remote Port Number" msgstr="Locale/Remote Port Number" />
+  <message msgid="Set Network Protocol" msgstr="Network Protocol" />
+  <message msgid="Set Network Timeout" msgstr="Network Timeout" />
+  <message msgid="Set Current" msgstr="Network Timeout" />
+  <message msgid="Set Updated" msgstr="Updated" />
+  <message msgid="Set milliseconds" msgstr="milliSeconds" />
+  <message msgid="Set seconds" msgstr="Seconds" />
+  
+   <message msgid="Set ETH-SERIAL" msgstr="ETH-SERIAL" />
+   <message msgid="Set WIFI(CLIENT)-SERIAL" msgstr="WIFI(CLIENT)-SERIAL" />
+   <message msgid="Set WIFI(AP)-SERIAL" msgstr="WIFI(AP)-SERIAL" />
+   <message msgid="Set Default" msgstr="Default" />
+   
+   <message msgid="Set STATIC" msgstr="STATIC" />
+   <message msgid="Set DHCP" msgstr="DHCP" />
+ 
+  
+  <message msgid="Set Apply" msgstr="Apply" />
+  <message msgid="Set Cancel" msgstr="Cancel" />
+
+  <message msgid="adv TCP AUTO CONNECT" msgstr="TCP AUTO CONNECT" />
+
+  <message msgid="adv TCP Client Auto Check" msgstr="TCP Client Auto Check" />
+  <message msgid="adv SERIAL ESCAPE" msgstr="SERIAL ESCAPE" />
+  <message msgid="adv SERIAL ESCAPE2" msgstr="SERIAL ESCAPE2" />
+  <message msgid="adv SERIAL ESCAPE2 TIME" msgstr="SERIAL ESCAPE2 TIME" />
+  <message msgid="adv SERIAL FRAME INTERVAL TIMEOUT" msgstr="SERIAL FRAME INTERVAL TIMEOUT" />
+  <message msgid="adv Client Locale Port" msgstr="Client Locale Port" />
+  <message msgid="adv WIFI Channel" msgstr="WIFI Channel" />
+  <message msgid="adv SERIAL RTS(GPIO_1)" msgstr="SERIAL RTS(GPIO_1)" />
+  <message msgid="adv SERIAL XON/XOFF" msgstr="SERIAL XON/XOFF" />
+  <message msgid="adv ms" msgstr="ms" />
+  <message msgid="adv Disable" msgstr="Disable" />
+  <message msgid="adv Enable" msgstr="Enable" />
+  
+  
+  <message msgid="adv Cancel" msgstr="Cancel" />
+  <message msgid="adv Cancel" msgstr="Cancel" />
+  
+  
+</po>
